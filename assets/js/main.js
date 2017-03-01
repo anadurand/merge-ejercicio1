@@ -1,7 +1,7 @@
 
 function saludar(){
 
-document.getElementById("saludo").innerHTML = "adios mundo";
+document.getElementById("saludo").innerHTML = "adios mundo cruel";
 
 }
 
